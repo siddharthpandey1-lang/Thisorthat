@@ -5,7 +5,7 @@ import sys
 pygame.init()
 
 # Constants
-WIDTH, HEIGHT = 3840, 2160  # 2180p approximation
+WIDTH, HEIGHT = 2000, 1000
 FPS = 120
 FONT_NAME = "comicsansms"
 BG_COLOR = (255, 200, 255)
