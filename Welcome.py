@@ -1,0 +1,6 @@
+print("Hello and welcome to this or that game!")
+print("You have often seen those 'this or that' questions on social media.")
+print("In this game, you will be presented with two options, and you have to choose one.")
+print("Let's get started!")
+name = input("First, please enter your name: ")
+print(f"Great to meet you, {name}! Let's begin the game.")
